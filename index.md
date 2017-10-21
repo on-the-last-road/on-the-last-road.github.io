@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet!
 - ...
 
 ## Adventures
-1. [Vers Rhogosbel](Adventures/Game1)
+1. [Vers Rhogosbel](Adventures/game-01-vers-rhogosbel)
 2. TBD

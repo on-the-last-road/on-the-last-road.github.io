@@ -3,12 +3,13 @@ layout: default
 title: À la rescousse de la princesse naine (Game 3)
 ---
 
-- les goblin sont partie avec la princess
-- la fille perd vraiment tou! elle perd la princess et elle perd de ses hommes.
-- la fille a trouvé des fleches noir appartenant aux orc (à l'entrée de la grotte ou ils se sont sauvé avec la princess)
-- On rammasse un towershield et on fait du tobogan (les 2 nains)
+
+- les goblins sont partis avec la princesse
+- la fille perd vraiment tout! elle perd la princesse et elle perd de ses hommes.
+- la fille a trouvé des flèches noires appartenant aux orc (à l'entrée de la grotte où ils se sont sauvés avec la princesse)
+- On ramasse un towershield et on fait du toboggan (les 2 nains)
 - on se plante solide...
-- l'elf essaye de faire son frait mais se plante aussi...
+- l'elf essaye de faire son frais, mais se plante aussi...
 - et on arrive à la grotte...
 - on piste... l'elf trouve la piste...
 - on suit la piste...
@@ -30,19 +31,19 @@ title: À la rescousse de la princesse naine (Game 3)
 - l'elf attack l'orc 2
 - l'explose le 2e orc!
 - ...
-- on arrive a la princess (scene horible avec un gros boss orc laitte qui s'la cross!)
+- on arrive a la princesse (scene horible avec un gros boss orc laitte qui s'la cross!)
 - on attack!
 - l'elf explose le boss avec son arc!
 - je coupe l'orc 1 en deux!
 - la nain touche l'orc 2
 - les autres se sauve...
 - yen reste 1 que j'explose!
-- sauve la princess (possedé)
+- sauve la princesse (possedé)
 - on la ramenne a Rogospel
 - Radagast dépossède la naine!
 - l'autre nain boss poche pleure!
 - le captain approuve de la joke des nain: "le nain boss poche est un adopté des elf"
 - ...
-- rejoindre la princess a erebor afin detre bien récompensé
-- l'autre nain la cruise
+- rejoindre la princesse a erebor afin detre bien récompensé
+- l'autre nain la cruise (et part avec)
 - ...

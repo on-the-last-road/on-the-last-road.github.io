@@ -12,4 +12,14 @@ Lorem ipsum dolor sit amet!
 
 ## Adventures
 1. [Vers Rhogosbel](Adventures/game-01-vers-rhogosbel)
-2. TBD
+1. [La princesse naine](Adventures//game-02-la-princesse-naine)
+1. [À la rescousse de la princesse naine](Adventures/game-03-a-la-rescousse-de-la-princesse-naine)
+1. [L'assassin, Bard et les deux Trolls](game-04-l-assassin-bard-et-les-deux-trolls)
+1. TBD
+
+## Others
+- [Treasure points ledger](treasure-points-ledger)
+- [Travel jokes](travel-jokes)
+
+## Location
+- (game 4 - search skill) => Première mine naine (pas certain de la place exacte)

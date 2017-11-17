@@ -14,7 +14,8 @@ Lorem ipsum dolor sit amet!
 1. [Vers Rhogosbel](Adventures/game-01-vers-rhogosbel)
 1. [La princesse naine](Adventures//game-02-la-princesse-naine)
 1. [À la rescousse de la princesse naine](Adventures/game-03-a-la-rescousse-de-la-princesse-naine)
-1. [L'assassin, Bard et les deux Trolls](game-04-l-assassin-bard-et-les-deux-trolls)
+1. [L'assassin, Bard et les deux Trolls](Adventures/game-04-l-assassin-bard-et-les-deux-trolls)
+1. [Dorwinion (Game 5)](Adventures/game-05-dorwinion.md)
 1. TBD
 
 ## Others

@@ -22,3 +22,16 @@ title: Travel jokes
 > Le djinn se tourne vers le nain et lui dit qu'il lui accordera un souhait. 
 >
 > Le nain dit: `Remplis-le d'eau`.
+
+
+### Game 6
+
+> Une jeune elfe marche dans les bois et tombe sur un camp de gobelins. 
+>
+> Rapidement, elle est entourée par eux, et tombe à genoux en priant: `Ilúvatar, je suis dans la grosse marde sale!` 
+>
+> Un rayon de lumière descend des cieux et une voix entonne: `Non, mon enfant, tu n'es pas totalement foutu, prends le rocher à tes genoux, et frappe le chef avec`. 
+>
+> L'elfe ramasse le rocher et, d'un coup, écrase le crâne du chef des gobelins devant sa tribu étonnée. 
+>
+> La voix d'en haut parle à nouveau et dit: `Là, maintenant, tu dans la grosse marde sale.`

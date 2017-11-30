@@ -1,6 +1,6 @@
 ---
 layout: default
-title: De retour à Dale (Game 5)
+title: De retour à Dale (Game 6)
 ---
 
 - chat avec la princess... cleanup wound et smoke a little...
@@ -11,7 +11,8 @@ title: De retour à Dale (Game 5)
 - le monde trip
 - un ligne de soldats nous attend pres du chateau!
 - ya une bonne 30ain de nains + le roi nain + la princess de thukgrel
-- 
+- Double mariage!
+- ...
 
 --- 
 

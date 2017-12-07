@@ -4,29 +4,29 @@ title:  Mirkwood (Game 7)
 ---
 
 
-- partie de dale
-- un marchand voulait notre (kierkan) aide
-- on dit non
-- en sortant il est avec son fils et 3 truants pas tres brillant
-- on leur dit de sapprer leur camps
-- en s'en va par la elf-path
-- les 3 truants passent a coté de nous au galop
-- un peu plus loin ils nous attendent avec qqes gars de plus
-- on les convain facilement de laisser faire
+- partie de Dale
+- un marchand voulait notre (Kierkan) aide
+- on (il) dit non
+- en sortant, il est avec son fils et 3 truands pas très brillant
+- on leur dit de saprer leurs camps
+- en s'en va par l'Elf-Path
+- les 3 truands passent à côté de nous au galop
+- un peu plus loin, ils nous attendent avec qqes gars de plus
+- on les convainc facilement de laisser-faire
 - on passe
-- des elfs nous embuchent
+- des elfes nous embauchent
 - l'elfette est là
-- on s'En fva au palais des elfs
-- on mange et boie
+- on s'en va au palais des elfes
+- on mange et boit
 - ...
-- une elf veut que je l'escorte a Rivendel pour quelle sapre son camp dans l'au dela
+- une elf [Erwen] veut que je l'escorte a Rivendel pour quelle sapre son camp dans l'au-delà
 - on l'escorte
-- un moment donné, lors d'une chasse, l'elf tu un cerf blanc et voit une tour (ou il y a probablemnt des orcs)... <- **note: y retourner**
+- un moment donné, lors d'une chasse, l'elfe tue un cerf blanc et voit une tour (ou il y a probablement des orques)... <- **note: y retourner**
 - ...
 - ...
-- Des orcs vollent des oeuf de great eagles!
-- on leur pette la guelle
-- des spider arrive
-- Je fonce et one shot la spider boss!
+- Des orques volent des oeufs de Great Eagles!
+- on leur pette la gueule
+- des spiders arrivent
+- Je fonce et one shot le spider boss!
 - fight de malade!
-- We kicked the (8?) spiders' asses!
+- We kicked the (8ish) spiders' asses!

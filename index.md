@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet!
 - [Ogk Barbe-de-Pierre](Characters/Ogk-Barbe-de-Pierre)
 - ...
 
-## Adventures
+## Adventures [Drafts]
 1. [Vers Rhogosbel](Adventures/game-01-vers-rhogosbel)
 1. [La princesse naine](Adventures//game-02-la-princesse-naine)
 1. [À la rescousse de la princesse naine](Adventures/game-03-a-la-rescousse-de-la-princesse-naine)

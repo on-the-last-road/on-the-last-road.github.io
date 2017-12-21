@@ -9,9 +9,11 @@ title:  Dol guldur (Game 8)
 - ...
 - Radagast est en péril
 - l'elf s'en va a Rivendel avec l'egle
-- Nous allons a Wooden Hall?
+- Nous allons a Wooden Hall
 - le chef (Mordread) est un pedleur/usurper avec comme conseillé "steve"
 - on continue vers Dol Guldur
-- c'est shadowy pomal!
-- on sauve radagast
+- c'est shadowy pomal (trop)!
+- On sauve radagast du "spectre"
 - On décolisse!
+
+

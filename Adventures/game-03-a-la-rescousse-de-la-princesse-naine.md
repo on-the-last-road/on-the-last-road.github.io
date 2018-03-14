@@ -3,7 +3,7 @@ layout: default
 title: À la rescousse de la princesse naine (Game 3)
 ---
 
-
+## Résumé de Ogk
 - les goblins sont partis avec la princesse
 - la fille perd vraiment tout! elle perd la princesse et elle perd de ses hommes.
 - la fille a trouvé des flèches noires appartenant aux orc (à l'entrée de la grotte où ils se sont sauvés avec la princesse)

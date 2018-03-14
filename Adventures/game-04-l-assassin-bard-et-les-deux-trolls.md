@@ -3,14 +3,15 @@ layout: default
 title: L'assassin, Bard et les deux Trolls (Game 4)
 ---
 
-## Timeout
+## Résumé de Ogk
+### Timeout
 
 - Je retourne a Iron Hills
 - Mr. Blond reste avec la princess a Erebor
 - Nick retourne a Dale
 - WhoQui retourne a Dale
 
-## Game 4
+### Game 4
 - dans la ville, l'elf se rend conte que qqun nous observee
 - il swift son chemin jusqua lui
 - le captaine call les guard

@@ -3,6 +3,7 @@ layout: default
 title:  Dol guldur (Game 8)
 ---
 
+## Résumé de Ogk
 - un giant eagle parle!
 - on monte les oeufs en haut de la tour
 - on s'obstine

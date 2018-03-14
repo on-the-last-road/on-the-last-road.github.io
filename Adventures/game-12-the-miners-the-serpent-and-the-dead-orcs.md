@@ -3,6 +3,7 @@ layout: default
 title:  The miners, the serpent and the dead orcs (Game 12)
 ---
 
+## Résumé de Ogk
 - we gathered info
     - I talked to the other miners
     - The elves "éplucha des tonnes de patates", hahahaha

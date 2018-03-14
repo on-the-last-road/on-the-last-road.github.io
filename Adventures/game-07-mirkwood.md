@@ -3,7 +3,7 @@ layout: default
 title:  Mirkwood (Game 7)
 ---
 
-
+## Résumé de Ogk
 - partie de Dale
 - un marchand voulait notre (Kierkan) aide
 - on (il) dit non

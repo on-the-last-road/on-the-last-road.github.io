@@ -3,6 +3,7 @@ layout: default
 title: De retour à Dale (Game 6)
 ---
 
+## Résumé de Ogk
 - chat avec la princess... cleanup wound et smoke a little...
 - Continer vers Bard a Dale
 - ...

@@ -3,7 +3,8 @@ layout: default
 title: Dorwinion (Game 5)
 ---
 
-- Nick a trouvé un neau brassar (120pts de trésor)
+## Résumé de Ogk
+- Nick a trouvé un beau brassar (120pts de trésor)
 - j'ai trouvé ula Hache de Durin (1er age) que j'ai donné a Thukgrel
 - On continue vers le lair des trolls
 - On trouve une crack

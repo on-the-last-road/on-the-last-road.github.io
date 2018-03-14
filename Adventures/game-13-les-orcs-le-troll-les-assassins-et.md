@@ -3,6 +3,7 @@ layout: default
 title:  Les orcs, le troll, les assassins et ... (Game 13)
 ---
 
+## Résumé de Ogk
 - on prépare les défenses
 - les orcs attaquent!
 - on kill la première wave easy! Je défends le pont.

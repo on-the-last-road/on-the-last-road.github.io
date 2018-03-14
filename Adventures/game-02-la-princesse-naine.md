@@ -3,10 +3,11 @@ layout: default
 title: La princesse naine (Game 2)
 ---
 
+## Résumé de Ogk
 - Arrive à Rhogosbel
 - J'ai Roll un Eye sur mon Awe en attrant dans l'auberge.
 - Jase avec des nains qui ont perdu la princesse
-- Jase a radagast...
+- Jase avec Radagast...
 - Il heal le gars qu'on trainnait
 - il nous dit que des orc peuvent se transformer en human et s'infiltre dans les villes
 - Menace vesr la vielle tour noir
@@ -21,11 +22,3 @@ J'ai demandé de l'herbe a pipe à Radaghast...
 - elf entend ..
 ...
 combat!
-
-## Casualties!
-
-Combat #1
-- Elf: 2 wight
-
-Combat #2
-- a lot...

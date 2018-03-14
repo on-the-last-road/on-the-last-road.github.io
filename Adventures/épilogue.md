@@ -10,3 +10,7 @@ Quelques années on passé et le nain devient un mentor pour le fils de sont cou
 Souder par la haine, l’héritier d’Érébor et l’héros nain du haut de leur montagne on reçu un message de leur amis elfe. 
 
 Nain, vous nous avez accompagné jusqu’à la mort. Aujourd’hui nous vous demandons une fois de plus de prendre les armes et de vous joindre à nous. Le mal revient…
+
+---
+
+[Back to home page](/)

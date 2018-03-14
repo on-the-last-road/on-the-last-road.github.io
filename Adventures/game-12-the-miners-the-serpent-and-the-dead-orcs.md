@@ -21,3 +21,7 @@ title:  The miners, the serpent and the dead orcs (Game 12)
 - ...
 - En allant revoir serpent tongue, il nous dit qu'on vient de condamner le village car il va tous nous tuer... le spectre!
 - On l'a assomé a grand poings de nains!
+
+---
+
+[Back to home page](/)

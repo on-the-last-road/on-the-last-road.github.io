@@ -9,3 +9,7 @@ title: De Mountain Hall au "bébé" dragon (Game 15)
 - ...
 - On kill un bébé dragon!
 - La maman/le papa arrive!
+
+---
+
+[Back to home page](/)

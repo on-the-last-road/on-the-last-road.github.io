@@ -17,3 +17,7 @@ Sous la pouriture du dragon, se cache le trésor des nains, son sang fera fondre
 ...
 
 on trouve l'énigme.. et War-mask of Belegost + The Shield of Anar (Rhingalad)
+
+---
+
+[Back to home page](/)

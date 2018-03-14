@@ -14,3 +14,7 @@ title:  Les orcs, le troll, les assassins et ... (Game 13)
 - ...
 - Le captain kill le troll!
 - ... je ne peux plus résister, je me ferme les yeux
+
+---
+
+[Back to home page](/)

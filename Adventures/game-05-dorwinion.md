@@ -25,3 +25,7 @@ title: Dorwinion (Game 5)
 - un gars + un tigre blanc nous aide (et apprait de nowhere)
     - on se faisait popire crisser une volé!
 - ...
+
+---
+
+[Back to home page](/)

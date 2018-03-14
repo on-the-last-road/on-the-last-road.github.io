@@ -47,3 +47,7 @@ title: À la rescousse de la princesse naine (Game 3)
 - rejoindre la princesse a erebor afin detre bien récompensé
 - l'autre nain la cruise (et part avec)
 - ...
+
+---
+
+[Back to home page](/)

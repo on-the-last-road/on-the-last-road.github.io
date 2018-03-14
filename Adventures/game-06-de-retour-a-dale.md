@@ -22,3 +22,7 @@ title: De retour à Dale (Game 6)
 > The hero gains a deeper understanding of the wilds surrounding Dale and may roll an additional Feat die on his Travel rolls, keeping the highest, whenever they take the role of Huntsman during a journey that takes them through the Northern Dalelands or the Upper Marches.
 - Commission a Smith of Anvil Way (All Seasons)
 - Offer Counsel at the Royal Court (All Seasons)
+
+---
+
+[Back to home page](/)

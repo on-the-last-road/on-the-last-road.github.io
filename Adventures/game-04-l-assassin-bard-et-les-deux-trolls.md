@@ -28,3 +28,7 @@ title: L'assassin, Bard et les deux Trolls (Game 4)
 - I take Stand Ground on the weakest & Thukgrel take Defensive stance on the hardest
 - ...
 - We kill the 2 trolls!
+
+---
+
+[Back to home page](/)

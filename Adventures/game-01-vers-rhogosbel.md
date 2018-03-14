@@ -9,3 +9,7 @@ title: Vers Rhogosbel (Game 1)
 - Arriver a ???
 - Kill orcs
 - Sauver ppl
+
+---
+
+[Back to home page](/)

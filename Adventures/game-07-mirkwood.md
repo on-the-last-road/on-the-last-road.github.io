@@ -30,3 +30,7 @@ title:  Mirkwood (Game 7)
 - Je fonce et one shot le spider boss!
 - fight de malade!
 - We kicked the (8ish) spiders' asses!
+
+---
+
+[Back to home page](/)

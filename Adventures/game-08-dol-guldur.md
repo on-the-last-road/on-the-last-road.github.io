@@ -18,3 +18,6 @@ title:  Dol guldur (Game 8)
 - On décolisse!
 
 
+---
+
+[Back to home page](/)

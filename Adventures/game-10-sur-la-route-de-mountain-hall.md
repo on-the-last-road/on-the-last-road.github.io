@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  ??? (Game 10)
+title:  Sur la route de Mountain hall (Game 10)
 ---
 
 - "lvl up"
